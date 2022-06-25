@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts-config PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 1.1//EN" "http://jakarta.apache.org/struts/dtds/struts-config_1_1.dtd">
+
+<struts-config>
+  <data-sources />
+  <form-beans />
+  <global-exceptions />
+  <global-forwards />
+  <action-mappings >
+    <action path="/admin" type="com.action.AdminAction" />  
+    <action path="/com" type="com.action.ComAction" /> 
+    <action path="/member" type="com.action.MemberAction" />  
+  </action-mappings>
+
+  <message-resources parameter="com.course.struts.ApplicationResources" />
+</struts-config>
+

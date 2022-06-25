@@ -1,0 +1,165 @@
+BODY {
+	FONT-SIZE: 12px; MARGIN: 0px
+}
+BODY {
+	FONT-SIZE: 12px; MARGIN: 0px
+}
+A:link {
+	FONT-SIZE: 12px; COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 12px; COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 12px; COLOR: #ff0000; TEXT-DECORATION: underline
+}
+.hemo_new {
+	BORDER-RIGHT: #ddd 1px solid; BORDER-TOP: #ddd 1px solid; BACKGROUND: url(topline_botbg.gif) repeat-x 0px -20px; MARGIN: 1px auto 0px; BORDER-LEFT: #ddd 1px solid; WIDTH: 328px; BORDER-BOTTOM: #ddd 1px solid; HEIGHT: 31px
+}
+.turl {
+	BORDER-RIGHT: #cedece 1px solid; BORDER-TOP: #cedece 1px solid; BORDER-LEFT: #cedece 1px solid; BORDER-BOTTOM: #cedece 1px solid
+}
+.tit {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #000000; LINE-HEIGHT: 22px
+}
+TD {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 140%; FONT-FAMILY: "Verdana", "Helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+SELECT {
+	BORDER-RIGHT: #6188af 1px solid; BORDER-TOP: #6188af 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #6188af 1px solid; COLOR: #000000; BORDER-BOTTOM: #6188af 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.table {
+	BORDER-RIGHT: #6188af 1px solid; BORDER-TOP: #6188af 1px solid; BORDER-LEFT: #6188af 1px solid; BORDER-BOTTOM: #6188af 1px solid
+}
+.title {
+	BACKGROUND-COLOR: #e1e1e1
+}
+.hittd {
+	FONT-SIZE: 11px; FONT-FAMILY: "Verdana", "Helvetica", "sans-serif"
+}
+.input {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #000000 1px solid; COLOR: #000000; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: "Verdana"; HEIGHT: 22px; BACKGROUND-COLOR: #ffffff
+}
+.i_news {
+	BORDER-BOTTOM: #999999 1px dotted
+}
+.i_news SPAN {
+	FLOAT: right; COLOR: #999999
+}
+.i_news1 {
+	BORDER-BOTTOM: #999999 1px dotted
+}
+.i_news1 SPAN {
+	FLOAT: right; COLOR: #ff0000
+}
+.button {
+	BORDER-RIGHT: #6188af 1px solid; BORDER-TOP: #6188af 1px solid; FONT-SIZE: 12px; BACKGROUND: #ffffff; BORDER-LEFT: #6188af 1px solid; COLOR: #000000; BORDER-BOTTOM: #6188af 1px solid; FONT-FAMILY: "Verdana"
+}
+.wenzhang {
+	FONT-SIZE: 12px; LINE-HEIGHT: 26px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.tab_k {
+	BORDER-RIGHT: #ebebeb 1px solid; BORDER-LEFT: #ebebeb 1px solid; BORDER-BOTTOM: #ebebeb 1px solid
+}
+.zi_y {
+	FILTER: DropShadow(Color=#ffffff, OffX=1, OffY=1, Positive=1); PADDING-TOP: 2px
+}
+.right_tab {
+	BORDER-RIGHT: #cecfce 1px solid; BORDER-TOP: #cecfce 1px solid; BORDER-LEFT: #cecfce 1px solid; BORDER-BOTTOM: #cecfce 1px solid
+}
+A.a01:link {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+A.a01:visited {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+A.a01:hover {
+	COLOR: #83d060; TEXT-DECORATION: underline
+}
+A.a01:active {
+	COLOR: #666666; TEXT-DECORATION: underline
+}
+A.a02:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.a02:visited {
+	COLOR: #0000ff; TEXT-DECORATION: none
+}
+A.a02:hover {
+	COLOR: #83d060; TEXT-DECORATION: underline
+}
+A.a02:active {
+	COLOR: #666666; TEXT-DECORATION: underline
+}
+A.a03:link {
+	COLOR: #00ffff; TEXT-DECORATION: none
+}
+A.a03:visited {
+	COLOR: #00ffff; TEXT-DECORATION: none
+}
+A.a03:hover {
+	COLOR: #83d060; TEXT-DECORATION: underline
+}
+A.a03:active {
+	COLOR: #666666; TEXT-DECORATION: underline
+}
+A.a04:link {
+	COLOR: #ff9900; TEXT-DECORATION: none
+}
+A.a04:visited {
+	COLOR: #ff9900; TEXT-DECORATION: none
+}
+A.a04:hover {
+	COLOR: #83d060; TEXT-DECORATION: underline
+}
+A.a04:active {
+	COLOR: #666666; TEXT-DECORATION: underline
+}
+A.a05:link {
+	COLOR: #339966; TEXT-DECORATION: none
+}
+A.a05:visited {
+	COLOR: #339966; TEXT-DECORATION: none
+}
+A.a05:hover {
+	COLOR: #83d060; TEXT-DECORATION: underline
+}
+A.a05:active {
+	COLOR: #666666; TEXT-DECORATION: underline
+}
+.s01 {
+	FONT-WEIGHT: bold
+}
+.s02 {
+	FONT-STYLE: italic
+}
+UL {
+	MARGIN: 0px; LIST-STYLE-TYPE: none
+}
+UL.list_search {
+	FONT-SIZE: 12px; WIDTH: 220px; TEXT-ALIGN: center
+}
+UL.list_search LI {
+	WIDTH: 220px; LINE-HEIGHT: 28px
+}
+UL.list0 {
+	PADDING-LEFT: 2px; FONT-SIZE: 12px; FLOAT: left; WIDTH: 215px; TEXT-ALIGN: left
+}
+UL.list0 LI {
+	WIDTH: 215px; LINE-HEIGHT: 28px; TEXT-ALIGN: left
+}
+UL.list0 LI A {
+	COLOR: #1f7798
+}
+UL.list0 LI SPAN {
+	PADDING-RIGHT: 2px; FLOAT: right; TEXT-ALIGN: left
+}
+UL.list0 LI A:hover {
+	BACKGROUND: #0099cc; PADDING-BOTTOM: 3px; LINE-HEIGHT: 28px; PADDING-TOP: 3px
+}
+.biankuang {
+	BORDER-RIGHT: #525252 1px solid; BORDER-TOP: #525252 1px solid; BORDER-LEFT: #525252 1px solid; WIDTH: 160px; BORDER-BOTTOM: #525252 1px solid; HEIGHT: 20px
+}
+.STYLE3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #000000; FONT-FAMILY: "ËÎÌו"
+}
